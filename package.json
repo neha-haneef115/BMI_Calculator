@@ -1,0 +1,19 @@
+{
+  "name": "project004-bmi-calculator",
+  "version": "4.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": "bmi.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
